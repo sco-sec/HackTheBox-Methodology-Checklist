@@ -325,7 +325,7 @@ ls -la /root /home/*/.*_history            # histories
 
 *If you spot `sudo NOPASSWD`*, consult **GTFOBins**.
 
-*If you find `SeImpersonatePrivilege`*, drop **PrintSpoofer/Incognito/JuicyPotato**.
+*If you find `SeImpersonatePrivilege`*, drop **PrintSpoofer/Incognito/JuicyPotato**...
 
 
 
