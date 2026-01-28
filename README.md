@@ -1,5 +1,4 @@
-# HackTheBox_Beginner_Cheat_Sheet
-HackTheBox: Beginner Cheat Sheet
+# HackTheBox Beginner Cheat Sheet
 
 ## This template is for:
 
